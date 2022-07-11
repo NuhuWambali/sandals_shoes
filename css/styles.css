@@ -1,0 +1,146 @@
+#title{
+ background-color:#ff4c68;
+ color:#fff;
+}
+ h1{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:3.2rem;
+  line-height: 1.5;
+  padding-bottom:30px;
+  padding-left:4%;
+ }
+ .container-fluid{
+  padding:3% 15%;
+ }
+ /* navbar */
+ .navbar-brand{
+  font-family: "Helvetica Neue",Helvetica,Arial;
+  font-size:2rem;
+  font-weight:bold;
+  padding-left: 0px;
+ } 
+ .navbar{
+  padding:0 0 4.5rem;
+ }
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size:1.2rem;
+}
+.button{
+  padding-left:50px;
+  padding-bottom:30px;
+}
+.title-img{
+  position:absolute;
+  width:60%;
+  padding-left:40px;
+  transform:rotate(40deg);
+}
+.download-button{
+  margin:10px;
+  padding-right:30px 20px;
+}
+#features{
+  background-color:antiquewhite;
+  padding:7% 15%;
+  position:relative;
+  z-index:1;
+
+}
+.feature-box{
+  text-align:center;
+  padding:5%;
+}
+h3{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+  text-align: center;
+  font-size:20px;
+  color:#8f8f8f;
+  padding-top:20px;
+}
+.icon{
+  color:#ef8172;
+  margin-bottom:4%;
+}
+.icon:hover{
+  color:#ff4c68;
+}
+#testimonials{
+  padding:5% 15%;
+  text-align:center;
+  background-color:#ef8172;
+  color:#fff;
+}
+.testmonial-text{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.testimonial-img{
+  width:15%;
+  border-radius:100%;
+  padding:20px 0;
+  margin:20px;
+}
+#newbrand{
+  padding:40px 20px;
+  background-color:#fff;
+  
+}
+.newbrand-item{
+
+  text-align:center;
+}
+.newbrand-img{
+  width:70%;
+  height:70%;
+  border:5px solid #ef8172;
+  border-radius:20px 20px;
+  margin:20px 30px 0 30px;
+}
+@media (max-width:992px){
+#title{
+  text-align:center;
+}
+ .title-img {
+   position:static;
+   transform:rotate(0);
+           }
+     }
+#footer{
+  padding:5% 15%;
+     }
+.developer-top{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  color:#8f8f8f;
+   padding-top:30px;
+   margin-top:20px;
+}
+.developer-img{
+width:30%;
+height:35%;
+margin:5% 33%;
+border-radius:100%;
+}
+.devpara{
+  text-align: center;
+}
+.contact{
+  text-align: center;
+}
+.social-icon{
+  margin:20px 5px;
+  color:#ff4c68;
+}  
+.social-icon:hover{
+  color:#ef8172
+}
+.copyright{
+  padding-top:0px;
+  margin-bottom:10px;
+}  
+
+
