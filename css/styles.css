@@ -108,6 +108,15 @@ p{
    position:static;
    transform:rotate(0);
            }
+  .nav-link{
+   Font-size : 2rem;
+  }
+  .nav-item{
+    Font-size:3rem;
+   }
+h3{
+font-size: 3rem;
+}
      }
 #footer{
   padding:5% 15%;
